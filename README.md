@@ -4,6 +4,8 @@
 
 The test consists in developing a small Single-Page-Application for listing & displaying details about some beers with ReactJS. 🍻
 
+![alt image beers](https://image.ibb.co/gpC3V8/Capture_d_e_cran_2018_06_05_a_12_27_30.png)
+
 ## API
 
 Requests should use the [PunkAPI](https://punkapi.com).
