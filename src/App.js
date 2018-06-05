@@ -4,6 +4,7 @@ import { Router, Redirect } from "@reach/router"
 import './App.css'
 import Header from "./components/Header/Header"
 import Beers from "./components/Beers/Beers"
+import Beer from "./components/Beer/Beer"
 
 class App extends Component {
     render() {
@@ -19,6 +20,7 @@ class App extends Component {
                      />
 
                     <Beers path="beers" />
+                    <Beer path="beers/:id" />
                 </Router>
 
             </div>
