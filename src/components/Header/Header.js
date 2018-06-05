@@ -10,7 +10,7 @@ class Header extends Component{
                 <div className="content">
                     <img src={logo} alt="logo beers" width="80"/>
 
-                <h1><a href="https://github.com/brandonsueur/react-beers" target="_blank" rel="noopener noreferrer" alt="react-beers">react-beers</a></h1>
+                    <h1><a href="https://github.com/brandonsueur/react-beers" target="_blank" rel="noopener noreferrer" alt="react-beers">react-beers</a></h1>
                     <p>Shows the beers that exists with Punk API!</p>
                 </div>
             </header>
