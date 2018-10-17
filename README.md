@@ -6,15 +6,6 @@ Petite application permettant de lister et d'afficher des détails sur certaines
 
 ![aperçu](https://image.ibb.co/gpC3V8/Capture_d_e_cran_2018_06_05_a_12_27_30.png)
 
-## 👜  Technologies
-
-Cela se trouve dans les branches.
-
-- [x] React
-- [ ] Vue
-- [ ] Angular
-- [ ] jQuery
-
 ## 🛣  Routes
 
 #### `/`
