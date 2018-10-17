@@ -8,16 +8,16 @@ Petite application permettant de lister et d'afficher des détails sur certaines
 
 ## 🛣  Routes
 
-### `/`
+#### `/`
 
 Devrait rediriger vers `/beers`
 
-### `/beers`
+#### `/beers`
 
 Devrait afficher une liste de bières, paginée par 20. La pagination peut utiliser les boutons "Précédent" ou "Suivant" ou le défilement infini.
 Chaque article doit afficher le nom de la bière, le slogan et la date à laquelle il a été brassé, first_brewed. Un élément doit pointer vers `/ beers /: id`.
 
-### `/beers/:id`
+#### `/beers/:id`
 
 Cet itinéraire devrait montrer des informations de base sur la bière. Ses `name`,` tagline`, `description`,` hops`, `food_pairing` &` brewers_tips`.
 
