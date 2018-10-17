@@ -6,6 +6,15 @@ Petite application permettant de lister et d'afficher des détails sur certaines
 
 ![aperçu](https://image.ibb.co/gpC3V8/Capture_d_e_cran_2018_06_05_a_12_27_30.png)
 
+## 👜  Technologies
+
+Cela se trouve dans les branches.
+
+- [x] React
+- [ ] Vue
+- [ ] Angular
+- [ ] jQuery
+
 ## 🛣  Routes
 
 #### `/`
@@ -22,10 +31,10 @@ Chaque article doit afficher le nom de la bière, le slogan et la date à laquel
 Cet itinéraire devrait montrer des informations de base sur la bière. Ses `name`,` tagline`, `description`,` hops`, `food_pairing` &` brewers_tips`.
 
 ## 📏  Les règles
-- Vous devez utilisez [PunkAPI] (https://punkapi.com).
+- Vous devez utilisez [PunkAPI](https://punkapi.com).
 - Vous pouvez regrouper votre application à l'aide de Webpack, Browserify ou similaire.
 - Vous pouvez utiliser create-react-app.
-- Ce projet doit utiliser [React] (https://facebook.github.io/react/).
+- Ce projet doit utiliser [React](https://facebook.github.io/react/).
 - Vous êtes libre d'utiliser l'architecture de l'application de votre choix.
 - Vous pouvez utiliser ES6 avec Babel (le test doit s'exécuter sur tout navigateur compatible ES5).
 - Vous pouvez utiliser Flow ou TypeScript.
